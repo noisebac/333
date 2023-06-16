@@ -1,8 +1,0 @@
-https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
-
-Tablename: Products
-
-1. SELECT ProductName, Unit, Price
-   FROM []
-   WHERE Price > 20 AND Price <= 38
-   ORDER BY Price DESC
